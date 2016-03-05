@@ -49,7 +49,7 @@
     <OutputPath>bin\Release-Net45\</OutputPath>
     <PlatformTarget>AnyCPU</PlatformTarget>
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <DefineConstants>NET45</DefineConstants>
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
